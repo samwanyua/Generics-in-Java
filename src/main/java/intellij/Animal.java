@@ -5,6 +5,6 @@ public class Animal {
     int age;
 
     public void eat(){
-        System.out.println("Munch Munch!");
+        System.out.println("Munch Munch! Munch!!!");
     }
 }
